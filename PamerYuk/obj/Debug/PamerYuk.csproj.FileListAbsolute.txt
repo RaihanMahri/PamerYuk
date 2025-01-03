@@ -1,0 +1,199 @@
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.AssemblyReference.cache
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormLogin.resources
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.Properties.Resources.resources
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.GenerateResource.cache
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CoreCompileInputs.cache
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe.config
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk.pdb
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.exe
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.pdb
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\MySql.Data.dll
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.pdb
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormHome.resources
+D:\Downloads\DB\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.Up2Date
+D:\Downloads\DB\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll.config
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe.config
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk.pdb
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\MySql.Data.dll
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.pdb
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll.config
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csprojAssemblyReference.cache
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormChat.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormCreateKonten.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormDaftarTeman.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormHome.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormLogin.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormPencarian.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRegister.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRequest.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.Properties.Resources.resources
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.GenerateResource.cache
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CoreCompileInputs.cache
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CopyComplete
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.exe
+C:\Users\rbgko\Downloads\PamerYuk1\PamerYuk\PamerYuk\obj\Debug\PamerYuk.pdb
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe.config
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.pdb
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.pdb
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll.config
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormChat.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormCreateKonten.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormDaftarTeman.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormHome.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormLogin.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormPencarian.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRegister.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRequest.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.Properties.Resources.resources
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CopyComplete
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.exe
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.pdb
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Buffers.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Memory.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\ZstdSharp.dll
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\MySql.Data.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Buffers.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Memory.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe.config
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk.pdb
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\MySql.Data.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Buffers.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Memory.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\ZstdSharp.dll
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.pdb
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll.config
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.pdb
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\MySql.Data.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Buffers.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Memory.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csprojAssemblyReference.cache
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormChat.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormCreateKonten.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormDaftarTeman.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormHome.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormLogin.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormPencarian.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRegister.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRequest.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.Properties.Resources.resources
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.GenerateResource.cache
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CoreCompileInputs.cache
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CopyComplete
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.exe
+C:\Users\rbgko\Downloads\PamerYuk(done register)\PamerYuk\PamerYuk\obj\Debug\PamerYuk.pdb
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe.config
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.exe
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk.pdb
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\MySql.Data.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Buffers.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Memory.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\ZstdSharp.dll
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.pdb
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\PamerYuk_Library.dll.config
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Google.Protobuf.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\MySql.Data.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Buffers.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Memory.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.AssemblyReference.cache
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormChat.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormCreateKonten.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormDaftarTeman.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormHome.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormLogin.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRegister.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormRequest.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.Properties.Resources.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.GenerateResource.cache
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CoreCompileInputs.cache
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.exe
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.pdb
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormTeman.resources
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.csproj.CopyComplete
+D:\Downloads\PamerYuk\PamerYuk\PamerYuk\obj\Debug\PamerYuk.FormInteraction.resources
